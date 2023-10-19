@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/think
+permalink: /blogs/think/
 title: Notes
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/research
+permalink: /blogs/research/
 title: Notes
 ---
 
