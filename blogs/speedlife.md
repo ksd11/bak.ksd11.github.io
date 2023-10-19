@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/speedlife/index.html
+permalink: /blogs/speedlife
 title: speedlife
 ---
 # 加速人生
