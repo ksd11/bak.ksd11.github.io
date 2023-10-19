@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 permalink: /blogs/speedlife
-title: speedlife
+date: 2023-08-05
+title: 加速人生
 ---
-# 加速人生
 
 > 一寸光阴一寸金，寸金难买寸光阴
 

@@ -8,6 +8,7 @@ title: Blogs
 
 ### 2023
 - [加速人生](./speedlife)
+- [测试页](./test)
 
 <br>
 

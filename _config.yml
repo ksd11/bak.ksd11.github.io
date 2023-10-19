@@ -51,7 +51,7 @@ links:
 timezone: China/Beijing
 future: true
 highlighter: rouge
-# markdown: kramdown
+markdown: kramdown
 # markdown: redcarpet
 # pygments: true
 
