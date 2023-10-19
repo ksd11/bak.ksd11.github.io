@@ -1,14 +1,16 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /blogs
 title: Blogs
 ---
 
-## Chinese Blogs
+## 笔记
 
-### 2023
-- [加速人生](./speedlife)
-- [测试页](./test)
+这是个人笔记存储的地方
+
+- [notes](./notes)：学习笔记
+- [research](./research)：研究记录
+- [think](./think)：思考感悟
 
 <br>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /blogs/speedlife
+permalink: /blogs/think/speedlife
 date: 2023-08-05
 title: 加速人生
 ---
